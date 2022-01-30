@@ -6,12 +6,13 @@ import WithChildren from "./basics/WithChildren";
 import WithParams from "./basics/WithParams";
 import Repetition from "./basics/Repetition";
 import Conditional from "./basics/Conditional";
+import ConditionalWithIf from "./basics/ConditionalWithIf";
 
 export default (props) => (
   <div className="App">
 
-    <Card title='#06 - ConditionalWithIf'>
-      <Conditional number={13}/>
+    <Card title='#06 - ConditionalWithIf' color='#FA6900'>
+      <ConditionalWithIf number={13}/>
     </Card>
 
     <Card title='#05 - Conditional'>
