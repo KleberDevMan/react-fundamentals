@@ -13,3 +13,5 @@ run server
 ```
 npm start
 ```
+visual result
+![img.png](img.png)

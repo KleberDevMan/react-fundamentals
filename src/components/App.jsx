@@ -1,11 +1,11 @@
 import React from "react";
 import App from './App.css'
 import Card from "./layout/Card";
-import First from "./First";
-import WithChildren from "./WithChildren";
-import WithParams from "./WithParams";
-import Repetition from "./Repetition";
-import Conditional from "./Conditional";
+import First from "./basics/First";
+import WithChildren from "./basics/WithChildren";
+import WithParams from "./basics/WithParams";
+import Repetition from "./basics/Repetition";
+import Conditional from "./basics/Conditional";
 
 export default (props) => (
   <div className="App">
