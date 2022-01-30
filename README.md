@@ -6,6 +6,7 @@
 - Elected style guide:
 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - This project was bootstrapped with: [Create React App](https://github.com/facebook/create-react-app)
+- Color pallet: [colourlovers](https://www.colourlovers.com/palettes)
 
 create app
 ```
