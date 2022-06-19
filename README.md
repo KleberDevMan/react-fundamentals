@@ -1,4 +1,4 @@
-### Getting Started with Create React App
+#### Course 1: branch /react-masterclass
 
 - Course reference: 
   - [React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!](https://youtu.be/XQxitgyZ_S4) (done)
@@ -8,13 +8,8 @@
 - This project was bootstrapped with: [Create React App](https://github.com/facebook/create-react-app)
 - Color pallet: [colourlovers](https://www.colourlovers.com/palettes)
 
-create app
-```
-npx create-react-app react-fundamentals
-```
-run server
-```
-npm start
-```
-final visual result (master #1)
-![img.png](img.png)
+#### Course 2: branch /react-esquenta-fullcycle
+
+- Main reference:  
+![img_1.png](img_1.png)  
+https://youtu.be/GPxt65zPdDE
